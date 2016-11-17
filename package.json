@@ -27,7 +27,7 @@
   "peerDependencies": {
     "babel-eslint": "^7.1.0",
     "eslint": "^2.0.0 || ^3.0.0",
-    "eslint-config-xiaoping": "^1.0.4",
+    "eslint-config-xiaoping": "^1.0.5",
     "eslint-plugin-import": "^2.0.0"
   }
 }
