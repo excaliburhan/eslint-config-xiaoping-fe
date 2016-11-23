@@ -21,13 +21,15 @@
   "dependencies": {
     "babel-eslint": "^7.1.0",
     "eslint": "^2.0.0 || ^3.0.0",
-    "eslint-config-xiaoping": "^1.0.5",
+    "eslint-config-xiaoping": "^1.0.7",
+    "eslint-plugin-html": "^1.7.0",
     "eslint-plugin-import": "^2.0.0"
   },
   "peerDependencies": {
     "babel-eslint": "^7.1.0",
     "eslint": "^2.0.0 || ^3.0.0",
-    "eslint-config-xiaoping": "^1.0.5",
+    "eslint-config-xiaoping": "^1.0.7",
+    "eslint-plugin-html": "^1.7.0",
     "eslint-plugin-import": "^2.0.0"
   }
 }
