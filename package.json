@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-xiaoping-fe",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "eslint config for front-end usage",
   "main": "index.js",
   "repository": {
