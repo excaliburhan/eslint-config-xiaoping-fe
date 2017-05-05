@@ -1,11 +1,11 @@
 {
-  "name": "eslint-config-xiaoping-fe",
+  "name": "eslint-config-xp-fe",
   "version": "1.0.8",
   "description": "eslint config for front-end usage",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/excaliburhan/eslint-config-xiaoping-fe.git"
+    "url": "git+https://github.com/excaliburhan/eslint-config-xp-fe.git"
   },
   "keywords": [
     "eslint",
@@ -15,19 +15,19 @@
   "author": "xiaoping",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/excaliburhan/eslint-config-xiaoping-fe/issues"
+    "url": "https://github.com/excaliburhan/eslint-config-xp-fe/issues"
   },
-  "homepage": "https://github.com/excaliburhan/eslint-config-xiaoping-fe#readme",
+  "homepage": "https://github.com/excaliburhan/eslint-config-xp-fe#readme",
   "dependencies": {
     "babel-eslint": "^7.1.0",
     "eslint": "^2.0.0 || ^3.0.0",
-    "eslint-config-xiaoping": "^1.1.1",
+    "eslint-config-xp": "^1.1.1",
     "eslint-plugin-html": "^2.0.1"
   },
   "peerDependencies": {
     "babel-eslint": "^7.1.0",
     "eslint": "^2.0.0 || ^3.0.0",
-    "eslint-config-xiaoping": "^1.1.1",
+    "eslint-config-xp": "^1.1.1",
     "eslint-plugin-html": "^2.0.1"
   }
 }
