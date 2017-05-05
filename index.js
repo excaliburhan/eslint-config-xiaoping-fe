@@ -1,5 +1,5 @@
 
-var config = require('eslint-config-xiaoping')
+var config = require('eslint-config-xp')
 
 config.parser = 'babel-eslint'
 config.plugins = ['html']
