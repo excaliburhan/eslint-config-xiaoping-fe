@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-xp-fe",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "eslint config for front-end usage",
   "main": "index.js",
   "repository": {
@@ -19,15 +19,9 @@
   },
   "homepage": "https://github.com/excaliburhan/eslint-config-xp-fe#readme",
   "dependencies": {
-    "babel-eslint": "^7.1.0",
-    "eslint": "^2.0.0 || ^3.0.0",
-    "eslint-config-xp": "^1.1.1",
-    "eslint-plugin-html": "^2.0.1"
-  },
-  "peerDependencies": {
-    "babel-eslint": "^7.1.0",
-    "eslint": "^2.0.0 || ^3.0.0",
-    "eslint-config-xp": "^1.1.1",
-    "eslint-plugin-html": "^2.0.1"
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.4.1",
+    "eslint-config-xp": "^1.1.4",
+    "eslint-plugin-html": "^3.1.1"
   }
 }
