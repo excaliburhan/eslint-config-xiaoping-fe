@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-xp-fe",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "eslint config for front-end usage",
   "main": "index.js",
   "repository": {
